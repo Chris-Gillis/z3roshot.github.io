@@ -10,23 +10,20 @@
         <link rel="stylesheet" href="/css/bootstrap.min.css">
 	
 	<!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href="/css/main.css">
 
     </head>
     <body>
 
         <div class="container">
           <div class="row">	    
-	    <header class="navbar navbar-static-top">
-              <h1 ><a class="navbar-brand" href="/">{{ site.name }}</a></h1>
+	    <header class="header">
+              <h1><a href="/">{{ site.name }}</a></h1>
+              <a href="/">home</a>
             </header>
           </div>
-	  <div class="container">
-	    <div class="row">
-              {{ content }}
-	    </div>
-	  </div>
-          <div class="row spacer-top">
+                {{ content }}
+          <div class="row">
             <footer class="footer">
               <div class="contact">
                 <p>
