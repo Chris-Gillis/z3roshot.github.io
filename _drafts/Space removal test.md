@@ -1,0 +1,1 @@
+Space removal test
