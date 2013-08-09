@@ -1,0 +1,3 @@
+* this blog is written on my iPhone 
+[MacSparky](link here) wrote an article about a method he conceived to lock his MacBook from his phone. I thought it was so clever when I first heard it. I don't have a MacBook, but oh boy, the first thing I do when I get one is set that up. 
+I didn't know it at the time, but that process would morph in my head to the process I am using to write this blog from my phone.
