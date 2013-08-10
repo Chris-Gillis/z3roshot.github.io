@@ -44,7 +44,8 @@ jekyll. This part of the setup is pretty standard so I won't go into how this
 works. It doesn't need to be said that I'm also using git for this, which is
 implied by me using GitHub.
 
-###the secret sauce
+##the secret sauce
+ {: .orange}
 
 By this point you may have figured out my process, but I'm going to lay it out
 anyway for my own benefit.
