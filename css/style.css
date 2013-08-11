@@ -1,16 +1,17 @@
-a {
-    color: #E67E22;
-}
-a:hover {
-    color: #E67E22;
-}
-
 ul {
     list-style-type: none;
 }
 
 body {
 	font-size: 2em;
+}
+
+.date {
+	color: #BDC3C7;
+}
+
+.post {
+	margin-top: 1.5em;
 }
 
 .spacer-top {
