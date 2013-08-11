@@ -1,58 +1,40 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <link rel="stylesheet" href="/css/syntax.css">
-        <link rel="stylesheet" href="/css/bootstrap.min.css">
-	
-	<!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/syntax.css">
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/style.css">
         <!--[if lt IE 9]>
 	<script src="dist/html5shiv.js"></script>
 	<![endif]-->
-    </head>
-    <body>
-      <div class="col-lg-2 spacer-top">
-        <div class="col-lg-offset-1">
-          <header>
-	    <h2 class="orange">chrisgillis.net</h2>
-	    <p>things that describe me</p>
-	  
-	    <ul>
-	      <li>father</li>
-	      <li>husband</li>
-	      <li>software maker</li>
-            </ul>
-	 </header>
-	 <aside class="spacer-top-small">
-           <p>Find me in these places</p>
-           <ul>
-	     <li><a href="http://github.com/z3roshot">github.com/z3roshot</a></li>
-	     <li><a href="http://twitter.com/z3roshot">twitter.com/z3roshot</a></li>
-	   </ul>
-	 </aside>
-	 <aside class="spacer-top-small">
-	    <p>If you want you can look at my <a href="/portfolio">portfolio</a></p>
-	 </aside>
-	 <aside class="spacer-top-small">
-            <p>Here is a list of things I really enjoy</p>
-	    <ul>
-	      <li><a href="http://www.atp.fm">Accidental Tech Podcast</a></li>
-	      <li><a href="http://www.5by5.tv/b2w">Back To Work Podcast</a></li>
-	      <li><a href="http://ketofinder.com">KetoFinder</a><span class="orange">*</span></li>
-	      <li><a href="http://reddit.com/r/keto">/r/Keto</a></li>
-	    </ul>
-          </aside>
-	  <span class="orange">*</span><em>Disclaimer: I am the author of the Android app for the site (Coming Soon!)</em>
-         </aside> 
-	</div>
-      </div>
-      <div class="col-lg-6 col-lg-offset-1">
-        {{ content }}
-      </div>
-    </body>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43105729-1', 'chrisgillis.net');
+  ga('send', 'pageview');
+
+  </script>
+</head>
+<body>
+  <header class="col-lg-offset-4 col-sm-offset-1">
+    <h1><a href="/">chrisgillis.net</a></h1>
+  </header>
+  <div class="col-lg-6 col-lg-offset-3">
+    {{ content }}
+  </div>
+  <div class="clearfix"></div>
+  <footer class="col-lg-offset-4 spacer-top">
+    <a href="/about">about me</a>
+  </footer>
+</body>
 </html>

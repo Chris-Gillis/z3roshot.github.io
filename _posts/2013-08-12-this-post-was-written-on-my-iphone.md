@@ -3,7 +3,7 @@ layout: post
 title: How I blog from my iPhone
 ---
 
-[MacSparky](http://macsparky.com/blog/2013/5/put-your-mac-to-sleep-with-ios-drafts) wrote an article about a method he conceived to lock his MacBook from his phone. I thought it was so clever when I first heard it. I don't have a MacBook, but oh boy, the first thing I do when I get one is set that up. 
+[MacSparky](http://macsparky.com) [wrote an article](http://macsparky.com/blog/2013/5/put-your-mac-to-sleep-with-ios-drafts) about a method he conceived to lock his MacBook from his phone. I thought it was so clever when I first heard it. I don't have a MacBook, but oh boy, the first thing I do when I get one is set that up. 
 
 I didn't know it at the time, but that process would morph in my head to the process I am using to write this blog from my phone. I'm particularly geeked out about this process, so I wanted to share how I'm doing this.
 
