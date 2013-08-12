@@ -27,6 +27,10 @@ body {
     margin-top: 2em;
 }
 
+.spacer-top-extra-small {
+    margin-top: 0.5em;
+}
+
 .cg-header {
   font-size: 2.75em;
 }
@@ -38,4 +42,8 @@ body {
 
 .link-icon {
     max-width: 5em;
+}
+
+.orange, .orange a, .orange a:hover{
+    color: #E67E22;
 }
