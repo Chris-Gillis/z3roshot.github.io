@@ -27,9 +27,13 @@ body {
     margin-top: 2em;
 }
 
+.cg-header {
+  font-size: 2.75em;
+}
 
-.orange {
-    color: #E67E22;
+.cg-header a {
+    color: black;
+    text-decoration: none;
 }
 
 .link-icon {
