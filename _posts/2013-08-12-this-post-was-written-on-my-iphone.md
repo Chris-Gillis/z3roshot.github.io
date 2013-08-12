@@ -1,16 +1,15 @@
 ---
 layout: post
-title: How I blog from my iPhone
+title: How I Blog From my iPhone
 ---
 
 [MacSparky](http://macsparky.com) [wrote an article](http://macsparky.com/blog/2013/5/put-your-mac-to-sleep-with-ios-drafts) about a method he conceived to lock his MacBook from his phone. I thought it was so clever when I first heard it. I don't have a MacBook, but oh boy, the first thing I do when I get one is set that up. 
 
 I didn't know it at the time, but that process would morph in my head to the process I am using to write this blog from my phone. I'm particularly geeked out about this process, so I wanted to share how I'm doing this.
 
-## the tools
- {: .orange}
+## The Tools
 
-###[Drafts](http://agiletortoise.com/drafts/)
+###[Drafts](http://agiletortoise.com/drafts)
 
 [Merlin Mann](merlinmann.com) has talked about drafts a number of times, and for
 good reason. Simply put, you open it up and start writing text. When you're done
@@ -37,15 +36,14 @@ computer. I never have to think about it, because it just happens. The only
 limit on this tool is your imagination. Did I mention it can run shell scripts
 or applescripts?
 
-###[Jekyll](http://jekyllrb.com) and [GitHub Pages](http://pages.github.com/)
+###[Jekyll](http://jekyllrb.com) + [GitHub Pages](http://pages.github.com/)
 
 This page is hosted on GitHub pages. The engine that generates the pages is
 jekyll. This part of the setup is pretty standard so I won't go into how this
 works. It doesn't need to be said that I'm also using git for this, which is
 implied by me using GitHub.
 
-##the secret sauce
- {: .orange}
+##The Secret Sauce
 
 By this point you may have figured out my process, but I'm going to lay it out
 anyway for my own benefit.
@@ -70,5 +68,5 @@ And now you have all the pieces you need to write posts from your phone!
 
 _I do have a confession to make - I started writing this on my phone, but I
 finished it on my computer because I needed to do a bit of research, and it's
-easier on a computer. If you have a bluetooth keyboard, there's no reason you
-can't blog directly from your iPad._
+easier on a computer. There's no reason you can't blog entirely from your iPhone
+or iPad, especially if you have a bluetooth keyboard_

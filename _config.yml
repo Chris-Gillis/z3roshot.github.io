@@ -2,3 +2,4 @@ name: chrisgillis.net
 markdown: kramdown
 pygments: false
 exclude: [promote.sh]
+html_to_native: true

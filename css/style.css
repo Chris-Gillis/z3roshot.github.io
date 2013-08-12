@@ -2,8 +2,13 @@ ul {
     list-style-type: none;
 }
 
+h1, h2, h3 {
+    font-weight: bold;
+    color: #E67E22;
+}
+
 body {
-	font-size: 2em;
+	font-size: 1.8em;
 }
 
 .date {
