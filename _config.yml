@@ -1,5 +1,4 @@
 name: chrisgillis.net
 markdown: kramdown
-pygments: false
+pygments: true
 exclude: [promote.sh]
-html_to_native: true
