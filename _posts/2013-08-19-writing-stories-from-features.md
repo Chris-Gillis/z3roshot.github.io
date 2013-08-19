@@ -24,9 +24,11 @@ User should be able to select a restaurant from a list of restaurants.
 ###Driving Development with Testing
 
 This project is a rails project, and I am using both [Cucumber](http://cukes.info) and
-[RSpec](http://rspec.info) for testing. Cucumber is more relevant because it lets you
-define behaviors that you're going to test. Here is the behavior I wrote for
-that story.
+[RSpec](http://rspec.info) for testing. I'm not going to write about how to use these tools,
+there are plenty of fantastic tutorials. [Here is a great article](http://www.sarahmei.com/blog/2010/05/29/outside-in-bdd/)
+ I found when I was learning how to write these tests. It is a bit out of date, 
+ but I followed the process that she explains in the article. 
+ Here is the list of behaviors I wrote for the story I mentioned above.
 
 ~~~~~
 Given A restaurant exists and it has a list of menu items
