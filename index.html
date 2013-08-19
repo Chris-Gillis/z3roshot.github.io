@@ -3,13 +3,11 @@ layout: default
 title: Chris Gillis
 ---
 
-<div id="home">
-  {% for post in site.posts %}
-    <h2 class="orange"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <em class="date">{{ post.date | date_to_string }}</em>
-    <div class="spacer-top-extra-small">
-      {{ post.excerpt }}
-    </div>
-    <hr />
-  {% endfor %}
+{% for post in site.posts %}
+<h2 class="orange"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<em class="date">{{ post.date | date_to_string }}</em>
+<div class="spacer-top-extra-small">
+  {{ post.excerpt }}
 </div>
+<hr />
+{% endfor %}

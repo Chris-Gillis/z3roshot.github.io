@@ -42,10 +42,7 @@ The way behavior driven development works is that you write these features first
 before any code. Since there is no code, you're going to get some failures, all
 the failures. The goal is to write just enough code to pass the tests. Because
 you only write code to pass the tests, your code because laser focused and only
-relevant to the specific features you're solving. It's incredibly easy to write
-a feature and 30 of it's closest feature friends and not use most of them. Not
-only is this a waste of time, it makes the code noisy and difficult to read
-later.
+relevant to the specific features you're solving.
 
 I feel this technique has improved my game a lot. As I mentioned, this is a
 rails project, and if you've used rails you know that it has a tendency to
