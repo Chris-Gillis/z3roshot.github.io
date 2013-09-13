@@ -15,3 +15,5 @@ The second itch I wanted to scratch is kind of a corollary to the first point. I
 Thirdly I wanted to exercise my UX skills. I mentioned that I had my wife and no typing in mind, but in general I just wanted an app that felt nice to use. I'm not a design guy, but I know what annoys me. I have a lot of experience being annoyed at web pages and apps.
 
 Feel free to check out the app, it's $0.99. If you'd like it but don't want to give me a buck, let me know and I'll see if I can come up with a promo code for you (maybe I should just make it free?).
+
+[![Image](http://a3.mzstatic.com/us/r1000/035/Purple6/v4/14/4b/23/144b238c-5cd4-41bd-67dd-3d714ea7b5e5/mzl.fldrnhlu.175x175-75.jpg)](https://itunes.apple.com/us/app/supertip/id688654782?mt=8)
