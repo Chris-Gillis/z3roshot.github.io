@@ -12,7 +12,7 @@ The second itch I wanted to scratch is kind of a corollary to the first point. I
 
 Thirdly I wanted to exercise my UX skills. I mentioned that I had my wife and no typing in mind, but in general I just wanted an app that felt nice to use. I'm not a design guy, but I know what annoys me. I have a lot of experience being annoyed at web pages and apps.
 
-Feel free to check out the app, it's $0.99. If you'd like it but don't want to give me a buck, let me know and I'll see if I can come up with a promo code for you (maybe I should just make it free?).
+Feel free to check out the app, it's $0.99. If you'd like it but don't want to give me a buck, [let me know](http://twitter.com/z3roshot) and I'll see if I can come up with a promo code for you (maybe I should just make it free?).
 
 _You can check it out here:_
 
