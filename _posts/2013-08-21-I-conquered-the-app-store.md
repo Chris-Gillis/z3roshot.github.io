@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I conquered the App Store
+title: I Conquered the App Store
 tags: [iOS, mobile]
 ---
 
