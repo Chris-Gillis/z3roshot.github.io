@@ -1,3 +1,9 @@
+---
+layout: post
+title: I conquered the App Store
+tags: [iOS, mobile]
+---
+
 I finished my first iOS app recently and I have a few thoughts about it.
 
 You can find it [here](https://itunes.apple.com/us/app/supertip/id688654782?mt=8).
