@@ -1,7 +1,6 @@
-I conquered the iOS AppStore
-===
+I finished my first iOS app recently and I have a few thoughts about it.
 
-I finished my first iOS app recently, and now you can find it [here](https://itunes.apple.com/us/app/supertip/id688654782?mt=8).
+You can find it [here](https://itunes.apple.com/us/app/supertip/id688654782?mt=8).
 
 This app scratched a number of itches for me. Firstly, I wanted to have something on the app store that I could point to and say "I did that!". The specifics of the app aren't that important, just that it exists. My career thus far has been great, but it suffers from a total lack of a public portfolio of work. I decided that no job is going to build my portfolio, and even if I was able to show something public facing, there's no guarantee that it's something I did entirely. This app is different though, I can say that it's wholly mine. I chose the design, I chose the colors, I chose the workflows. I don't like typing on my phone if I don't have to, so that drove the design. Every decision had the no typing mantra in mind. In addition my wife always asks me how much to tip at restaurants. I could have just had her download one of the zillions of tip apps called "Just the Tip", but decided to make SuperTip with her in mind instead.
 
