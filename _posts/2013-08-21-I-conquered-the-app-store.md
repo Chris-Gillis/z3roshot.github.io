@@ -14,6 +14,6 @@ Thirdly I wanted to exercise my UX skills. I mentioned that I had my wife and no
 
 Feel free to check out the app, it's $0.99. If you'd like it but don't want to give me a buck, let me know and I'll see if I can come up with a promo code for you (maybe I should just make it free?).
 
-You can check it out here:
+_You can check it out here:_
 
 [![Image](http://a3.mzstatic.com/us/r1000/035/Purple6/v4/14/4b/23/144b238c-5cd4-41bd-67dd-3d714ea7b5e5/mzl.fldrnhlu.175x175-75.jpg)](https://itunes.apple.com/us/app/supertip/id688654782?mt=8)
