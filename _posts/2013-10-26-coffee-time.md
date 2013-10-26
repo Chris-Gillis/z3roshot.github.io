@@ -4,8 +4,6 @@ title: Coffee time
 tags: [coffee]
 ---
 
-# I love coffee
-
 I'm kind of a coffee fanatic. 
 I drink some every day, where some is probably 30-50 ounces (0.9 - 1.5 L if you use a sensible measurement system).
 I wanted to share my coffee setup in case somebody is looking for inspiration, or if somebody knows a better way (I'd love to hear it!).
