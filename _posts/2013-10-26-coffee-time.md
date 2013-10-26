@@ -10,7 +10,7 @@ I wanted to share my coffee setup in case somebody is looking for inspiration, o
 
 ### Equipment
 
-My favorite piece of equipment is my [aeropress](http://www.amazon.com/Aerobie-AeroPress-Coffee-Espresso-Maker/dp/B0047BIWSK). I used to use a french press from Target, and discovered the french press was great for my coffe, but this aeropress really turns up the temperature figuratively of course. It looks like a lot of pieces, but [it's not nearly as complicated as it looks](http://vimeo.com/67781954).
+My favorite piece of equipment is my [aeropress](http://www.amazon.com/Aerobie-AeroPress-Coffee-Espresso-Maker/dp/B0047BIWSK). I used to use a french press from Target, and discovered the french press was great for my coffe, but this aeropress really turns up the temperature figuratively of course. It looks like a lot of pieces, but it's not nearly as complicated as it looks.
 
 <iframe src="//player.vimeo.com/video/67781954?color=44b4ad" width="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 [Just add Water on vimeo](http://vimeo.com/67781954)
