@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Learning AngularJS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="/css/syntax.css">
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/style.css">
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43105729-1', 'chrisgillis.net');
+  ga('send', 'pageview');
+
+  </script>
+</head>
+<body>
+  <header>
+    <h1 class="text-center cg-header"><a href="/">Chris Gillis</a></h1>
+  </header>
+  <hr />
+  <p class="text-center"><a class="text-center" href="/about">about me</a></p>
+  <hr />
+  <div class="col-lg-6 col-lg-offset-3">
+    <h2 class="orange">Learning AngularJS</h2>
+<em class="date">22 Oct 2013</em>
+<div class="spacer-top-extra-small">
+  <p>I’m building a new website in rails, and I decided to use AngularJS to make a single page application (SPA). A SPA is an application in which the page does not refresh between actions. Gmail is probably the most well known SPA. I don’t think my app needs a SPA to be successful, but it makes for a really nice user experience. And I wanted to learn AngularJS.
+So far I’ve had a couple problems that have slowed me down, and I wanted to document them here.</p>
+
+<p>The first major hangup I had was breakage when using the browser’s back and forward functions; when you used “back” the screen would flash the correct information for a moment and then it would go blank. Sometimes it would cause javascript errors, sometimes it wouldn’t. I searched far and wide, and I just couldn’t figure my problem out. In an attempt to do what many programmers have done, I posted <a href="http://stackoverflow.com/questions/19496453/angularjs-browser-back-button-stops-partials-from-loading-and-causes-page-refres">a question on stack overflow</a>. As you can read on the page, the problem was being caused by a feature that is turned on by default in Rails 4 called turbolinks. I didn’t investigate exactly why this was happening, but then again I don’t really care, I fixed my problem! Of course, credit where credit is due, my friend <a href="http://twitter.com/red_square">red_square</a> diagnosed the problem for me. To remove turbolinks, I simply followed <a href="http://blog.steveklabnik.com/posts/2013-06-25-removing-turbolinks-from-rails-4">these simple instructions</a>.</p>
+
+<p>My next major hangup I had was coffeescript related. I began programming my app in coffeescript, because that’s the hip thing to do, plus the syntax is pretty nice. Since coffeescript is meant to be ruby-like, when it compiles to javascript, the last line of every function is prefixed with “return “. Normally this is no problem, but I was stuck for a long time because of this. When you’re defining AngularJS controllers, you use the $scope object to add behaviors to your controller. In my code, the last line of the function was adding a behavior, so when it compiled to javascript it became
+    return $scope.myFunc = function(…){…}
+which Angular didn’t like. I’m not sure exactly why this is a problem, but it was solved by returning undefined at the end of the function. It annoyed me enough that I decided to switch to plain javascript.</p>
+
+<p>Since I solved those issues, it’s been really smooth sailing. Even though it’s a new way to think about creating a user interface, development is actually really quick once you move past the “gotchas”. I’ll definitely be posting more thoughts and musings about AngularJS, and I’ll certainly talk more about my app when there is more to show.</p>
+
+
+</div>
+
+  </div>
+</body>
+</html>
