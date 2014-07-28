@@ -1,4 +1,4 @@
 name: chrisgillis.net
 markdown: kramdown
-pygments: true
+highlighter: pygments
 exclude: [promote.sh]
