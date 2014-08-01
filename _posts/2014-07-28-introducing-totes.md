@@ -62,4 +62,4 @@ expect(0).isZero();
 
 `isTrue` will pass `0` into the `check` function, which will return `true` because `0 === 0` is `true`.
 
-In future blog posts I will talk more about the internals of Totes and give some real examples of it being used in real projects. I would love to hear from anyone using it to tell me about their experiences using it, and of course [I'm accepting pull requests](github.com/z3roshot/totes).
+In future blog posts I will talk more about the internals of Totes and give some real examples of it being used in real projects. I would love to hear from anyone using it to tell me about their experiences using it, and of course [I'm accepting pull requests](http://github.com/z3roshot/totes).
