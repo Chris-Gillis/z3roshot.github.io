@@ -4,7 +4,7 @@ title: Totes, the chainable, extensible assertion framework for javascript
 tags: [unit testing, javascript, totes]
 ---
 
-![totes logo](https://camo.githubusercontent.com/3e83c3d59f1218e7c0fd90f0cdb9399ce3afed92/687474703a2f2f692e696d6775722e636f6d2f61516b6a7771522e706e67)
+<img src="http://i.imgur.com/aQkjwqR.png" width="150" height="auto" align="center" hspace="12" />
 
 I wrote totes because I wanted to create an API that is easy to understand. I also wanted assertions that were chainable. At the core, totes has an `Assertable` object that has a `value` property and two functions: `isTrue` and `isFalse`. Everything else that totes can do is an extension on the `Assertable` prototype.
 
